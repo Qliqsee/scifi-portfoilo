@@ -9,7 +9,7 @@ import { withStyles } from "@/hoc/withStyles";
 import { Fader } from "@/component/Fader";
 import styled from "@emotion/styled";
 import Image from "next/image";
-import imageUrl from "../../images/qliqsee.jpg";
+import imageUrl from "../../images/qliqsee_about_image.jpg";
 
 const styles = (theme: any) => ({
   root: {},
