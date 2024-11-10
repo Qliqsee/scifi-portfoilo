@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Qliqsee
 
-## Getting Started
+Qliqsee is a **sci-fi-inspired portfolio web app** that blends futuristic design with warm, wooden brown aesthetics. Featuring engaging transitions, animations, and immersive sound effects, it offers a tactile experience that mimics navigating a high-tech, intergalactic control panel.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Futuristic sci-fi design** mixed with organic, warm wooden textures.
+- **Fluid, sci-fi-inspired transitions** between sections.
+- **Immersive sound effects** accompanying button clicks, transitions, and hover interactions.
+- **Engaging animations** that follow timed sequences for a seamless user journey.
+- Designed to evoke the sensation of exploring a high-tech control panel or dashboard.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Check out the live portfolio here:  
+http://qliqsee.dev
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+To get started with Qliqsee locally, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Ensure you have **Node.js** (>=18.0) and **npm** (or **yarn**) installed on your system. You can download and install them from [Node.js official website](https://nodejs.org/).
