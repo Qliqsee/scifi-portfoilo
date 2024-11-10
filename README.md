@@ -13,7 +13,7 @@ Qliqsee is a **sci-fi-inspired portfolio web app** that blends futuristic design
 ## Demo
 
 Check out the live portfolio here:  
-http://qliqsee.dev
+https://qliqsee.dev
 
 ## Installation
 
