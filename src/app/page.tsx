@@ -7,6 +7,7 @@ import { withStyles } from "@/hoc/withStyles";
 import { Brand } from "@/component/Brand";
 import { Menu } from "@/component/Menu";
 import { SocialLinks } from "@/component/SocialLinks";
+import { Legal } from "@/component/Legal";
 
 const styles = (theme: any) => {
   return {
@@ -68,6 +69,7 @@ const Component = ({ classes }: Props) => {
           <Brand className={classes.brand} onLinkStart={onLinkStart} />
           <Menu className={classes.menu} animation={{ duration: { enter: 400 } }} scheme="expand" onLinkStart={onLinkStart} />
           <SocialLinks className={classes.social} onLinkStart={onLinkStart} />
+          <Legal className={classes.legal} />
         </div>
       </div>
     </Sequence>

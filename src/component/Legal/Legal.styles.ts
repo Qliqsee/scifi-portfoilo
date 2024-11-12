@@ -6,6 +6,7 @@ const styles = (theme: any) => ({
     fontSize: 14,
     userSelect: "none",
     whiteSpace: "nowrap",
+    fontFamily: theme.typography.secondary,
     textAlign: "center",
   },
   link: {

@@ -22,7 +22,9 @@ const Component = ({ classes, energy, audio, sounds, className, opaque, onLinkSt
   return (
     <p className={cx(classes.root, className)} {...etc}>
       <Text animation={{ animate, show, duration }} stableTime>
-        — The better part of Valour, is Discretion. —
+        <Link download target="_blank" href="/resume.pdf">
+          - Download PDF Resume -
+        </Link>
       </Text>
     </p>
   );
