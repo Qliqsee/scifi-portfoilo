@@ -3,7 +3,7 @@ import cx from "classnames";
 
 import { Link } from "../Link";
 import anime from "animejs";
-import { Facebook, GitHub, Instagram, MailOutline, X } from "@mui/icons-material";
+import { GitHub, LinkedIn, MailOutline, X } from "@mui/icons-material";
 
 interface Props {
   // theme?: any;
@@ -112,8 +112,8 @@ const Component = React.forwardRef(
         <A href="https://x.com/agboola_iyanu" title="Twitter" target="twitter">
           <X />
         </A>
-        <A href="https://www.instagram.com/qliqsee" title="Instagram" target="instagram">
-          <Instagram />
+        <A href="https://linkedin.com/in/iyanu-agboola" title="LinkedIn" target="linkedin">
+          <LinkedIn />
         </A>
         <A href="mailto:agboolasolomoniyanu@gmail.com" title="Email" target="email">
           <MailOutline />
